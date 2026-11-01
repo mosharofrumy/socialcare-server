@@ -442,3 +442,5 @@ app.listen(PORT, () => {
 });
 
 // auth middleware
+
+// event post routes
