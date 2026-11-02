@@ -446,3 +446,5 @@ app.listen(PORT, () => {
 // event post routes
 
 // get upcoming events api
+
+// event details and join routes
