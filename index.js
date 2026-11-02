@@ -444,3 +444,5 @@ app.listen(PORT, () => {
 // auth middleware
 
 // event post routes
+
+// get upcoming events api
