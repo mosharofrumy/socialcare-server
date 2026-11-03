@@ -24,7 +24,7 @@ app.use("/auth", authRoutes);
 app.use("/events", eventRoutes);
 
 app.use((_req, res) => {
-  res.status(404).json({ message: "Server is running successfully" });
+  res.status(200).json({ message:"Server is running successfully"});
 });
 app.use(errorMiddleware);
 
